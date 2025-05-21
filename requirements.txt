@@ -1,2 +1,3 @@
 # requirements.txt
 nemoguardrails
+dotenv
