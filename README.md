@@ -36,6 +36,7 @@ A simple demo project showcasing how to use NVIDIA NeMo Guardrails to add progra
    ```bash
    pip install --upgrade pip
    pip install -r requirements.txt
+   pip install ipykernel jupyter
    ```
 
 4. **Set up environment variables**
@@ -44,6 +45,7 @@ A simple demo project showcasing how to use NVIDIA NeMo Guardrails to add progra
    ```ini
    OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
    ```
+   *See the provided example.env
 
 ## Configuration Files
 
