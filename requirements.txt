@@ -2,3 +2,5 @@
 nemoguardrails
 dotenv
 openai
+ipykernel 
+jupyter

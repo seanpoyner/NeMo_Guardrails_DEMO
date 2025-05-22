@@ -36,7 +36,6 @@ A simple demo project showcasing how to use NVIDIA NeMo Guardrails to add progra
    ```bash
    pip install --upgrade pip
    pip install -r requirements.txt
-   pip install ipykernel jupyter
    ```
 
 4. **Set up environment variables**
@@ -107,18 +106,10 @@ prompts:
 
 ### Running via Python Script
 
-If you’d prefer a standalone script, rename the notebook code to `demo.py` and execute:
+If you’d prefer a standalone script you can run this demo by executing `demo.py` in the terminal:
 
 ```bash
 python demo.py
-```
-
-### CLI Chat (Optional)
-
-You can also use the built-in CLI tool to chat interactively:
-
-```bash
-nemoguardrails chat --config .
 ```
 
 ## Folder Structure
