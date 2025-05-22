@@ -20,7 +20,7 @@ A simple demo project showcasing how to use NVIDIA NeMo Guardrails to add progra
 
    ```bash
    git clone https://github.com/seanpoyner/NeMo_Guardrails_DEMO 
-   cd nemo-guardrails-demo
+   cd NeMo_Guardrails_DEMO
    ```
 
 2. **Create a virtual environment** (recommended)
